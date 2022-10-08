@@ -1,0 +1,1 @@
+culori = ['red', 'blue', 'pink', 'purple', 'yellow', 'brown', 'orange', 'black']
